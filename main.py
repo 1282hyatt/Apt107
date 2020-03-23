@@ -8,6 +8,8 @@ data = [
     [20, 21, 22, 23, 24]
 ]
 
+int i
+
 print(str(enumerate(data)))
 
 # for (index1,item1) in enumerate(data):
